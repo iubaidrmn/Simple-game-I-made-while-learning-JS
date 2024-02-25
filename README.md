@@ -33,4 +33,3 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-Feel free to customize it further based on additional details or instructions you want to include!
